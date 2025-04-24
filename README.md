@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Emma Owusu</h1>
+<h1 align="center">Hi 👋, I'm Emmanuel</h1>
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=F70000&center=true&vCenter=true&width=435&lines=Web+Developer;Tech+Enthusiast;Lifelong+Learner" alt="Typing SVG" />
 </p>
@@ -32,11 +32,6 @@
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/emmaowusu294/emmaowusu294/output/github-contribution-grid-snake.svg" />
 </picture>
 
----
-
-### 🎬 Project Demo
-
-[![Watch the video](https://img.youtube.com/vi/YOUTUBE_VIDEO_ID/0.jpg)](https://www.youtube.com/watch?v=YOUTUBE_VIDEO_ID)
 
 ---
 
