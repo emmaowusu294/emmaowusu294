@@ -24,14 +24,6 @@
 
 ---
 
-### 🐍 GitHub Contribution Snake
-
-
-![GitHub Snake Light](https://raw.githubusercontent.com/emmaowusu294/emmaowusu294/output/github-contribution-grid-snake.svg#gh-light-mode-only)
-![GitHub Snake Dark](https://raw.githubusercontent.com/emmaowusu294/emmaowusu294/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
-
----
-
 ### 📊 GitHub Stats
 
 <p align="center">
