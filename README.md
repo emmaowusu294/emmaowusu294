@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Emmanuel Owusu</h1>
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=00FFD1&center=true&vCenter=true&width=435&lines=Frontend+Dev+%7C+React+Native+Ninja;Spring+Boot+%7C+PostgreSQL+Backend+Dev;TwiLang+Compiler+Builder+%F0%9F%9A%80;Tech+Lover+%7C+Problem+Solver+%F0%9F%A7%91%E2%80%8D%F0%9F%92%BB" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=15&pause=1000&color=00FFD1&center=true&vCenter=true&width=435&lines=Frontend+Dev+%7C+React+Native+Ninja;Tech+Lover+%7C+Problem+Solver+%F0%9F%A7%91%E2%80%8D%F0%9F%92%BB" alt="Typing SVG" />
 </p>
 
 <p align="center">
