@@ -12,31 +12,11 @@
 ## About Me 👨‍💻
 
 <p>
-  I'm a passionate **Frontend Developer** specializing in **React Native**, with a love for building intuitive and efficient mobile applications. As a tech enthusiast and problem solver, I enjoy tackling new challenges and continuously learning. I'm proficient in JavaScript/TypeScript, Java/Spring Boot, and have experience with various tools across the development lifecycle. Currently exploring [mention something you're learning, e.g., ASP.NET Core, specific design patterns, etc.]. Let's build something awesome together!
+  I'm a passionate softeware develpoer, with a love for building intuitive and efficient mobile applications. As a tech enthusiast and problem solver, I enjoy tackling new challenges and continuously learning. I'm proficient in JavaScript/TypeScript, and have experience with various tools across the development lifecycle. Currently exploring ASP.NET Core. Let's build something awesome together!
 </p>
 
 ---
 
-## ✨ Project Highlights
-
-Here are a few projects I'm particularly proud of:
-
-1.  **[Project Name 1 - e.g., LibriVerse Online Library]**
-    * **Description:** [Briefly describe the project - e.g., An online digital library built with ASP.NET Core MVC, featuring user authentication, digital loans, and admin management.]
-    * **Tech Stack:** [e.g., ASP.NET Core, EF Core, SQL Server, Bootstrap, Identity]
-    * **Link:** [Link to GitHub Repository] | [Link to Live Demo (if available)]
-
-2.  **[Project Name 2]**
-    * **Description:** [Brief description of another key project.]
-    * **Tech Stack:** [List main technologies.]
-    * **Link:** [Link to GitHub Repository] | [Link to Live Demo (if available)]
-
-3.  **[Project Name 3]** (Optional)
-    * **Description:** [Brief description.]
-    * **Tech Stack:** [List main technologies.]
-    * **Link:** [Link to GitHub Repository] | [Link to Live Demo (if available)]
-
----
 
 <p align="center">
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400" alt="Coding gif" />
@@ -51,17 +31,14 @@ Here are a few projects I'm particularly proud of:
   <img src="https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=fff&style=for-the-badge" />
   <img src="https://img.shields.io/badge/React%20Native-61DAFB?logo=react&logoColor=000&style=for-the-badge" />
   <img src="https://img.shields.io/badge/Expo-000020?logo=expo&logoColor=fff&style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Java-007396?logo=java&logoColor=fff&style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?logo=springboot&logoColor=fff&style=for-the-badge" />
-  <img src="https://img.shields.io/badge/C%23-239120?logo=c-sharp&logoColor=fff&style=for-the-badge" /> @* Added C# *@
-  <img src="https://img.shields.io/badge/ASP.NET%20Core-512BD4?logo=dotnet&logoColor=fff&style=for-the-badge" /> @* Added ASP.NET Core *@
+  <img src="https://img.shields.io/badge/C%23-239120?logo=c-sharp&logoColor=fff&style=for-the-badge" /> 
+  <img src="https://img.shields.io/badge/ASP.NET%20Core-512BD4?logo=dotnet&logoColor=fff&style=for-the-badge" /> 
   <img src="https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=fff&style=for-the-badge" />
-  <img src="https://img.shields.io/badge/SQL%20Server-CC2927?logo=microsoftsqlserver&logoColor=fff&style=for-the-badge" /> @* Added SQL Server *@
+  <img src="https://img.shields.io/badge/SQL%20Server-CC2927?logo=microsoftsqlserver&logoColor=fff&style=for-the-badge" /> 
   <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff&style=for-the-badge" />
   <img src="https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=fff&style=for-the-badge" />
   <img src="https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=fff&style=for-the-badge" />
   <img src="https://img.shields.io/badge/Firebase-FFCA28?logo=firebase&logoColor=000&style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Flutter-02569B?logo=flutter&logoColor=fff&style=for-the-badge" />
   <img src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=fff&style=for-the-badge" />
   <img src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=fff&style=for-the-badge" />
   <img src="https://img.shields.io/badge/VS%20Code-007ACC?logo=visualstudiocode&logoColor=fff&style=for-the-badge" />
