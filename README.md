@@ -82,8 +82,8 @@
 ## 📫 Let's Connect & Collaborate
 
 <p align="center">
-  💬 Reach me at: [eo8407272@gmail.com](mailto:eo8407272@gmail.com)  
-  🔗 <a href="https://www.linkedin.com/in/emmanuelowusu123" target="_blank">LinkedIn</a> | <a href="https://github.com/emmaowusu294" target="_blank">GitHub</a>
+  💬 Reach me at: [eo8407272@gmail.com](mailto:eo8407272@gmail.com)<br> 
+  🔗 [LinkedIn](https://www.linkedin.com/in/emmanuelowusu123) | [GitHub](https://github.com/emmaowusu294)
 </p>
 
 ---
