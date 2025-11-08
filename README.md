@@ -9,7 +9,7 @@
 
 ---
 
-## About Me 👨‍💻
+## About Me ...👨‍💻
 
 <p>
   I'm a passionate softeware develpoer, with a love for building intuitive and efficient mobile applications. As a tech enthusiast and problem solver, I enjoy tackling new challenges and continuously learning. I'm proficient in JavaScript/TypeScript, and have experience with various tools across the development lifecycle. Currently exploring ASP.NET Core. Let's build something awesome together!
