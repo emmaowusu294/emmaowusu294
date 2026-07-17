@@ -100,7 +100,7 @@ A modern financial landing page showcasing responsive frontend development.
 
 # 🤝 Connect With Me
 
-📧 **Email:** <a href="mailto:emowusu360@gmail.com">eo8407272@gmail.com</a>
+📧 **Email:** <a href="mailto:emowusu360@gmail.com">emowusu360@gmail.com</a>
 
 💼 **LinkedIn:** https://www.linkedin.com/in/emmanuelowusu123
 
