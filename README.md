@@ -72,18 +72,6 @@ A cryptocurrency wallet inspired by Coinbase, tailored for the Ghanaian market.
 - Spring Boot
 - PostgreSQL
 
----
-
-### ✅ Todo Backend API
-
-RESTful API featuring JWT Authentication, Entity Framework Core, PostgreSQL, and role-ready architecture.
-
-**Tech Stack**
-
-- ASP.NET Core
-- Entity Framework Core
-- PostgreSQL
-- JWT Authentication
 
 ---
 
