@@ -90,6 +90,12 @@ A modern financial landing page showcasing responsive frontend development.
 
 ---
 
+## 🔥 GitHub Streak
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=emmaowusu294&theme=github-dark-blue&hide_border=true" alt="GitHub Streak" />
+</p>
+
 # 🔥 Contribution Graph
 
 <p align="center">
